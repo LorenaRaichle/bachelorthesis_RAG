@@ -57,6 +57,8 @@ A brief overview of the repository's directory structure:
 - **evaluation_StratifiedSampling**  
   Contains scripts and final CSV output for evaluation subset using stratified sampling.
 
+- **run_job.sh**  = script for running job in Cluster
+
 - **comparison_approaches**  
   Contains results comparing different approaches.
   - **mean_scores_per_approach**  
